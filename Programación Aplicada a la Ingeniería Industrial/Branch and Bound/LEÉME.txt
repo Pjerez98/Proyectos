@@ -1,0 +1,3 @@
+ Se intentó implementar branch and bound, con estrategia FIFO con menor coste(minimizar), y mayor beneficio(maximizar)(criterio para analizar nodos en cola)
+se ramifica la variable con mayor coeficiente en la funcion objetivo(maximizacion) y menor coef en la f.o.(minimización).
+

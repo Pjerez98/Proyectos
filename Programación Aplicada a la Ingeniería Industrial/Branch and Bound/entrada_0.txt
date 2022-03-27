@@ -1,0 +1,18 @@
+40 5
+Minimizar
+Fobjetivo: 7 x1 + 4 x2 + 3 x3 + 2 x4 + 2 x5 + 3 x6 + 3 x7 + 7 x8 + 8 x9 + 3 x10 + 8 x11 + 4 x12 + 4 x13 + 2 x14 + x15 + 2 x16 + 3 x17 + 6 x18 + 8 x19 + 3 x20 + 7 x21 + 3 x22 + 4 x23 + 3 x24 + 3 x25 + 2 x26 + 4 x27 + 7 x28 + 7 x29 + 2 x30 + 6 x31 + 2 x32 + 5 x33 + 4 x34 + 3 x35 + 2 x36 + 3 x37 9 x38 + 9 x39 + 2 x40
+Sujeto a
+restriccion_1:  9 x1 + 5 x2 + 2 x3 + x4 + 2 x5 + 4 x6 + 4 x7 + 7 x8 + 8 x9 + 3 x10 <= 16
+restriccion_2:  7 x11 + 5 x12 + 2 x13 + x14 + 2 x15 + 4 x16 + 4 x17 + 7 x18 + 8 x19 + 3 x20 <= 13
+restriccion_3:  8 x21 + 5 x22 + 3 x23 + 2 x24 + 3 x25 + 4 x26 + 4 x27 + 6 x28 + 8 x29 + 2 x30 <= 12
+restriccion_4:  9 x31 + 4 x32 + 2 x33 + x34 + x35 + 3 x36 + 3 x37 + 7 x38 + 8 x39 + 3 x40 <= 11
+restriccion_5:  x1 + x11 + x21 + x31  == 1
+restriccion_6:  x2 + x12 + x22 + x32  == 1
+restriccion_7:  x3 + x13 + x23 + x33  == 1
+restriccion_8:  x4 + x14 + x24 + x34  == 1
+restriccion_9:  x5 + x15 + x25 + x35  == 1
+restriccion_10: x6 + x16 + x26 + x36  == 1
+restriccion_11: x7 + x17 + x27 + x37  == 1
+restriccion_12: x8 + x18 + x28 + x38  == 1
+restriccion_13: x9 + x19 + x29 + x39  == 1
+restriccion_14: x10 + x20 + x30 + x40  == 1

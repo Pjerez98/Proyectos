@@ -1,0 +1,14 @@
+Bienvenido al programa simula tu banco!
+En este programa tendrás la opción de ver el estado final de cualquier instante de tiempo de los clientes en caja,cola y atendidos, incluido el final.
+Para esto tendrás que ingresar el instante que desees. En caso de querer ver el estado final del último instante,
+deberás pulsar -1. Siempre que desees ver otro instante de tiempo, deberás pulsar 1, por el contrario,
+si quieres terminar, solo deberás pulsar la tecla 0.
+El programa te guiará y dará las indicaciones correspondientes.
+
+Consideración: El programa puede mostrar el estado final de cualquier instante de tiempo,
+es decir, muestra el estado de ese instante una vez transcurrido y ejecutado lo que corresponda.
+Por ejemplo, si un cliente llega en el instante 0, y es asignado a la caja 1 G, en el estado final
+aparecerá que su tiempo en caja de es 1, lo que corresponde al tiempo transcurrido desde 0 a 1.
+Otro ejemplo, si el tiempo en caja de un instante determinado es 2, y su demora es 3, en el estado final 
+del proximo instante, ese cliente ya no aparecerá en caja, ya que durante el instante fue asignado a la 
+pila de clientes.

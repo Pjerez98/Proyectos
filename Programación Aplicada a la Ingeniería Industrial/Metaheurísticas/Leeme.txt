@@ -1,0 +1,14 @@
+Autores: Nicolás Araya Vera, Pablo Jerez Agurto
+
+Ils: 
+Implementados y recreados según las paginas: 
+-opt2_5k, Opt2_5 :http://tsp-basics.blogspot.com/2017/03/25-opt.html
+-TresOpt,TresOpt1, TresOptk, TresOpt2k1 , OrOpt1,OrOpt1k: http://tsp-basics.blogspot.com/2017/03/3-opt-move.html
+
+Algoritmo Genetico (AG): 
+-Algoritmo recreado basado en la pagina: https://www.cienciadedatos.net/documentos/py01_optimizacion_ga
+-El cruzamiento OX2 y las mutaciones de TSP recreados según la pagina: http://www.sc.ehu.es/ccwbayes/docencia/mmcc/docs/temageneticos.pdf
+-Cruzamiento pmx (copiado de: https://thortuga.wordpress.com/2013/11/24/pmx-en-python/), sin embargo no se utiliza para el desarrollo. 
+
+Mixto:
+La base es del Algoritmo Genético, sin embargo, se utiliza el ILS para obtener una población inicial. 

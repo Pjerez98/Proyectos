@@ -1,0 +1,15 @@
+Algoritmos de clustering kmeans y DBSCAN.
+
+Para correr el algoritmo los datasets deben estar en la misma carpeta que el codigo.
+
+Kmeans: Se implementó en base a algoritmo pasado en clases e información variada de internet.
+Implementación de parámetros: el parámetro k se debe escoger a través del gráfico, ingresando el valor en consola.*Modificado, es automático.
+Implementación de punto de partida óptimo para el k escogido (automático).
+
+DBSCAN: Se implementó en base a algoritmo de clases y del pseudocodigo de "https://es.wikipedia.org/wiki/DBSCAN".
+Implementación de parámetros: Epsilon y min_points predefinidos en el programa, los cuales fueron obtenidos del algoritmo.
+Para ambos algoritmos, primero se preprocesaron los datos con las librerias de scklearn, especificamente de PCA, esto para reducir la dimensionalidad de los datos y graficar en R2.
+
+Breve análisis:
+Analizando la eficacia de los resultados mediante los label reales que tenian los datasets nos dimos cuenta que el K-means se ajusta mejor a los datos que el DBSCAN, por ende, para estos 
+datasets se deberia aplicar el algoritmo de k-means por sobre el DBSCAN.
