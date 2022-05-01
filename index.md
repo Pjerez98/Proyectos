@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Bienvenidos a mi portafolio de Ciencia de Datos
 
-You holacan use the [editor on GitHub](https://github.com/Pjerez98/Proyectos/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Mira mi curriculum vitae [editor on GitHub](https://github.com/Pjerez98/Proyectos/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
